@@ -129,6 +129,4 @@ export default {
   layouts: {
     default: "~/layouts/default.tsx",
   },
-
-  buildDir: 'dist',
 };
